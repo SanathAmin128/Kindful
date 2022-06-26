@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Kindful</string>
+    <string name="Home">Home</string>
+    <string name="Bell">Bell</string>
+    <string name="Search">Search</string>
+    <string name="User">User</string>
 </resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503659444658",
+    "project_id": "kindful-87064",
+    "storage_bucket": "kindful-87064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503659444658:android:846c6b28a65f13122f8cab",
+        "android_client_info": {
+          "package_name": "com.example.kindful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503659444658-v09rh78f6qu51qh2f91fijmkaookv6su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHSQMO0sk_8CcWa_T4ySKMePWue-KCXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503659444658-v09rh78f6qu51qh2f91fijmkaookv6su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
