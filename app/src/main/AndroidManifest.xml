@@ -13,9 +13,6 @@
             android:name=".ChooserPage"
             android:exported="false" />
         <activity
-            android:name=".SignIn"
-            android:exported="false" />
-        <activity
             android:name=".profile"
             android:exported="false" />
         <activity
